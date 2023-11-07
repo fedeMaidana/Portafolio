@@ -1,35 +1,35 @@
 {
     "skills2": [
         {
-            "img": "../src/assets/skills/c.svg",
+            "img": "assets/skills/c.svg",
             "name": "C"
         },
         {
-            "img": "../src/assets/skills/php.svg",
+            "img": "assets/skills/php.svg",
             "name": "PHP"
         },
         {
-            "img": "../src/assets/skills/mysql.svg",
+            "img": "assets/skills/mysql.svg",
             "name": "MySQL"
         },
         {
-            "img": "../src/assets/skills/jest.svg",
+            "img": "assets/skills/jest.svg",
             "name": "Jest"
         },
         {
-            "img": "../src/assets/skills/git.svg",
+            "img": "assets/skills/git.svg",
             "name": "Git"
         },
         {
-            "img": "../src/assets/skills/github.svg",
+            "img": "assets/skills/github.svg",
             "name": "Github"
         },
         {
-            "img": "../src/assets/skills/figma.svg",
+            "img": "assets/skills/figma.svg",
             "name": "Figma"
         },
         {
-            "img": "../src/assets/skills/linux.svg",
+            "img": "assets/skills/linux.svg",
             "name": "Linux"
         }
     ]

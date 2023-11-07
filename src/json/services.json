@@ -1,7 +1,7 @@
 {
     "services": [
         {
-            "icon": "../src/assets/icons/design.svg",
+            "icon": "assets/icons/design.svg",
             "alt": "Icono de diseño",
             "title": "Diseño",
             "description": [
@@ -11,7 +11,7 @@
             ]
         },
         {
-            "icon": "../src/assets/icons/development.svg",
+            "icon": "assets/icons/development.svg",
             "alt": "Icono de desarrollo",
             "title": "Desarrollo",
             "description": [
@@ -21,7 +21,7 @@
             ]
         },
         {
-            "icon": "../src/assets/icons/optimization.svg",
+            "icon": "assets/icons/optimization.svg",
             "alt": "Icono de optimización",
             "title": "Optimización",
             "description": [
@@ -33,7 +33,7 @@
             ]
         },
         {
-            "icon": "../src/assets/icons/maintenance.svg",
+            "icon": "assets/icons/maintenance.svg",
             "alt": "Icono de mantenimiento",
             "title": "Mantenimiento",
             "description": [
