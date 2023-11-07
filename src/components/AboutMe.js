@@ -1,22 +1,16 @@
 export const AboutMe = async () => {
     try {
-        const requestOptions = {
-            headers: new Headers({
-                'Content-Type': 'applications/json',
-                'Access-Control-Allow-Origin': '*'
-            })
-        }
 
-        const responseAbout = await fetch( '../src/json/aboutMe.json', requestOptions )
+        const responseAbout = await fetch( '/src/json/aboutMe.json' )
         const { info } = await responseAbout.json()
 
-        const responseSkills1 = await fetch( '../src/json/skills1.json', requestOptions )
+        const responseSkills1 = await fetch( '/src/json/skills1.json' )
         const { skills1 } = await responseSkills1.json()
 
-        const responseSkills2 = await fetch( '../src/json/skills2.json', requestOptions )
+        const responseSkills2 = await fetch( '/src/json/skills2.json' )
         const { skills2 } = await responseSkills2.json()
 
-        const responseDiplomas = await fetch( '../src/json/diplomas.json', requestOptions )
+        const responseDiplomas = await fetch( '/src/json/diplomas.json' )
         const { diplomas } = await responseDiplomas.json()
         
         const view = /* html */ `
