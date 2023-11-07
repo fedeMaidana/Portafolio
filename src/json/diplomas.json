@@ -1,71 +1,71 @@
 {
     "diplomas": [
         {
-            "img": "assets/diplomas/web-components.png",
+            "img": "src/assets/diplomas/web-components.png",
             "alt": "Certificado de web components"
         },
         {
-            "img": "assets/diplomas/accesibilidad.png",
+            "img": "src/assets/diplomas/accesibilidad.png",
             "alt": "Certificado de accesibilidad web"
         },
         {
-            "img": "assets/diplomas/optimizacion.png",
+            "img": "src/assets/diplomas/optimizacion.png",
             "alt": "Certificado de optimización web"
         },
         {
-            "img": "assets/diplomas/full-stack.png",
+            "img": "src/assets/diplomas/full-stack.png",
             "alt": "Certificado de desarrollador web Full Stack"
         },
         {
-            "img": "assets/diplomas/figma.png",
+            "img": "src/assets/diplomas/figma.png",
             "alt": "Certificado de Figma"
         },
         {
-            "img": "assets/diplomas/react-redux.png",
+            "img": "src/assets/diplomas/react-redux.png",
             "alt": "Certificado de React con Redux"
         },
         {
-            "img": "assets/diplomas/react.png",
+            "img": "src/assets/diplomas/react.png",
             "alt": "Certificado de react"
         },
         {
-            "img": "assets/diplomas/javascript.png",
+            "img": "src/assets/diplomas/javascript.png",
             "alt": "Certificado de Javascript"
         },
         {
-            "img": "assets/diplomas/api-rest.png",
+            "img": "src/assets/diplomas/api-rest.png",
             "alt": "Certificado de API REST con Javascript"
         },
         {
-            "img": "assets/diplomas/responsive-design.png",
+            "img": "src/assets/diplomas/responsive-design.png",
             "alt": "Certificado de diseño responsivo"
         },
         {
-            "img": "assets/diplomas/ingenieria.png",
+            "img": "src/assets/diplomas/ingenieria.png",
             "alt": "Certificado de fundamentos de ingeniería de software"
         },
         {
-            "img": "assets/diplomas/javascript-base.png",
+            "img": "src/assets/diplomas/javascript-base.png",
             "alt": "Certificado de fundamentos de Javascript"
         },
         {
-            "img": "assets/diplomas/diseño.png",
+            "img": "src/assets/diplomas/diseño.png",
             "alt": "Certificado de diseño para programadores"
         },
         {
-            "img": "assets/diplomas/terminal.png",
+            "img": "src/assets/diplomas/terminal.png",
             "alt": "Certificado de terminal de comandos"
         },
         {
-            "img": "assets/diplomas/sistema-de-diseño.png",
+            "img": "src/assets/diplomas/sistema-de-diseño.png",
             "alt": "Certificado de sistema de diseño"
         },
         {
-            "img": "assets/diplomas/git-github.png",
+            "img": "src/assets/diplomas/git-github.png",
             "alt": "Certificado de Git y Github"
         },
         {
-            "img": "assets/diplomas/html-css.png",
+            "img": "src/assets/diplomas/html-css.png",
             "alt": "Certificado de HTML y CSS"
         }
     ]

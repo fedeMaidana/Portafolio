@@ -2,17 +2,17 @@
     "socialNetworks": [
         {
             "link": "https://www.linkedin.com/in/federico-e-maidana-m/",
-            "img": "assets/social/linkedin.svg",
+            "img": "src/assets/social/linkedin.svg",
             "name": "LinkedIn"
         },
         {
             "link": "https://api.whatsapp.com/send?phone=+542233001864",
-            "img": "assets/social/whatsapp.svg",
+            "img": "src/assets/social/whatsapp.svg",
             "name": "WhatsApp"
         },
         {
             "link": "mailto:fede_maidana4@hotmail.com",
-            "img": "assets/social/email.svg",
+            "img": "src/assets/social/email.svg",
             "name": "Correo"
         }
     ]
