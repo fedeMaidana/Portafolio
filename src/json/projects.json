@@ -1,0 +1,126 @@
+{
+    "projects": [
+        {
+            "year": 2023,
+            "project": [
+                {
+                    "img": "../src/assets/proyects/customcraft.png",
+                    "title": "CustomCraft",
+                    "description": "Plataforma para personalizar prendas de vestir en un entorno 3D interactivo, con la opción de compartir el resultado final con la comunidad.",
+                    "deploy": "https://proyecto-final-fedemaidana.vercel.app/",
+                    "repository": "https://github.com/fedeMaidana/Proyecto_Final",
+                    "hashtag": [
+                        "#HTML",
+                        "#CSS",
+                        "#Tailwind",
+                        "#Javascript",
+                        "#React",
+                        "#Redux",
+                        "#Node",
+                        "#Express",
+                        "#PostgreSQL"
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 2022,
+            "project": [
+                {
+                    "img": "../src/assets/proyects/calculadora-basica.png",
+                    "title": "Calculadora Básica",
+                    "description": "Realiza cálculos sencillos.",
+                    "deploy": "https://fedemaidana.github.io/calculadora/",
+                    "repository": "https://github.com/fedeMaidana/calculadora",
+                    "hashtag": [
+                        "#HTML",
+                        "#CSS",
+                        "#Javascript"
+                    ]
+                },
+                {
+                    "img": "../src/assets/proyects/calculadora-geometrica.png",
+                    "title": "Calculadora de Geometrías",
+                    "description": "Web simple para averiguar el área, perímetro y diámetro de algunas geometrías.",
+                    "deploy": "https://fedemaidana.github.io/figuras-geometricas/figuras.html",
+                    "repository": "https://github.com/fedeMaidana/figuras-geometricas",
+                    "hashtag": [
+                        "#HTML",
+                        "#CSS",
+                        "#Javascript"
+                    ]
+                },
+                {
+                    "img": "../src/assets/proyects/pokedex.png",
+                    "title": "Pokedex",
+                    "description": "Web basada en un sistema de consulta, sobre los videojuegos principales de Pokemon.",
+                    "deploy": "https://fedemaidana.github.io/pokeApi/html/poke.html",
+                    "repository": "https://github.com/fedeMaidana/pokeApi",
+                    "hashtag": [
+                        "#HTML",
+                        "#CSS",
+                        "#Javascript"
+                    ]
+                },
+                {
+                    "img": "../src/assets/proyects/calculadora-descuentos.png",
+                    "title": "Calculadora de Descuentos",
+                    "description": "Web dedicada a realizar descuentos simples, con un diseño inspirado en el neomorfismo.",
+                    "deploy": "https://fedemaidana.github.io/precios-y-descuentos/",
+                    "repository": "https://github.com/fedeMaidana/precios-y-descuentos",
+                    "hashtag": [
+                        "#HTML",
+                        "#CSS",
+                        "#Javascript"
+                    ]
+                },
+                {
+                    "img": "../src/assets/proyects/peso.png",
+                    "title": "Calculadora de Peso Planetario",
+                    "description": "Sitio para averiguar tu peso en diferentes planetas de nuestro sistema solar.",
+                    "deploy": "https://fedemaidana.github.io/calcular-peso-en-otro-planeta/",
+                    "repository": "https://github.com/fedeMaidana/calcular-peso-en-otro-planeta",
+                    "hashtag": [
+                        "#HTML",
+                        "#CSS",
+                        "#Javascript"
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 2021,
+            "project": [
+                {
+                    "img": "../src/assets/proyects/google.png",
+                    "title": "Clon de Google",
+                    "description": "Copia estática del buscador de Google.",
+                    "deploy": "https://fedemaidana.github.io/clon-de-google/",
+                    "repository": "https://github.com/fedeMaidana/clon-de-google",
+                    "hashtag": [
+                        "#HTML",
+                        "#CSS"
+                    ]
+                }
+            ]
+        },
+        {
+            "year": 2019,
+            "project": [
+                {
+                    "img": "../src/assets/proyects/tandilvial.png",
+                    "title": "Tandilvial",
+                    "description": "Empresa familiar que ofrece servicios tales como, obras sanitarias, obras viales, movimiento de suelos, construcción e infraestructura.",
+                    "deploy": "https://fedemaidana.github.io/tandilvial/",
+                    "repository": "https://github.com/fedeMaidana/tandilvial",
+                    "hashtag": [
+                        "#HTML",
+                        "#CSS",
+                        "#Javascript",
+                        "#PHP"
+                    ]
+                }
+            ]
+        }
+    ]
+}

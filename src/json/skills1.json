@@ -1,0 +1,40 @@
+{
+    "skills1": [
+        {
+            "img": "../src/assets/skills/html.svg",
+            "name": "HTML5"
+        },
+        {
+            "img": "../src/assets/skills/css3.svg",
+            "name": "CSS3"
+        },
+        {
+            "img": "../src/assets/skills/tailwind.svg",
+            "name": "Tailwind"
+        },
+        {
+            "img": "../src/assets/skills/javascript.svg",
+            "name": "Javascript"
+        },
+        {
+            "img": "../src/assets/skills/react.svg",
+            "name": "React"
+        },
+        {
+            "img": "../src/assets/skills/redux.svg",
+            "name": "Redux"
+        },
+        {
+            "img": "../src/assets/skills/nodejs.svg",
+            "name": "Node"
+        },
+        {
+            "img": "../src/assets/skills/expressjs.svg",
+            "name": "Express"
+        },
+        {
+            "img": "../src/assets/skills/postgresql.svg",
+            "name": "PostgreSQL"
+        }
+    ]
+}

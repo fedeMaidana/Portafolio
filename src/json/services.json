@@ -1,0 +1,46 @@
+{
+    "services": [
+        {
+            "icon": "../src/assets/icons/design.svg",
+            "alt": "Icono de diseño",
+            "title": "Diseño",
+            "description": [
+                "Diseño personalizado, atractivo y funcional",
+                "Creación de graficos vectoriales, iconos y elementos decorativos",
+                "Prototipo interactivo para evaluar el diseño antes de la implementación"
+            ]
+        },
+        {
+            "icon": "../src/assets/icons/development.svg",
+            "alt": "Icono de desarrollo",
+            "title": "Desarrollo",
+            "description": [
+                "Construcción de sitios web modernos e interactivos",
+                "Sitios responsivos, adaptable a dispositivos moviles y diferentes tipos de pantalla",
+                "Implementación de funcionalidades para soportar lectores de pantalla, teclados y otras tecnologías de asistencia"
+            ]
+        },
+        {
+            "icon": "../src/assets/icons/optimization.svg",
+            "alt": "Icono de optimización",
+            "title": "Optimización",
+            "description": [
+                "Reducción del tiempo de carga",
+                "Posicionamiento en los motores busqueda",
+                "Compresión de imágenes",
+                "Limpieza y optimización del código",
+                "Gestión eficiente de recursos"
+            ]
+        },
+        {
+            "icon": "../src/assets/icons/maintenance.svg",
+            "alt": "Icono de mantenimiento",
+            "title": "Mantenimiento",
+            "description": [
+                "Actualizaciones regulares y corrección de errores",
+                "Implementación de nuevas características y funcionalidades",
+                "Gestión de contenido según las necesidades del cliente"
+            ]
+        }
+    ]
+}

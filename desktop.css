@@ -1,0 +1,97 @@
+.bg-grid{
+    padding: 20px 20px 0 20px;
+}
+.header{
+    row-gap: 50px;
+}
+.title-container{
+    padding: 0 15px 15px 15px;
+}
+.title{
+    font-size: 6rem;
+}
+.logo{
+    width: 70%;
+}
+.name{
+    font-size: 4rem;
+}
+.developer{
+    font-size: 3rem;
+}
+.words-container{
+    height: 40px;
+    transform: translateY( .2px );
+}
+.word{
+    font-size: 3rem;
+    padding-left: 15px;
+}
+.nav{
+    margin-top: 50px;
+}
+.items-container{
+    display: flex;
+    justify-content: center;
+    column-gap: 40px;
+}
+.button-1, .button-2, .button-3, .button-4{
+    padding: 7px 10px;
+    font-size: 2.5rem;
+}
+.about{
+    row-gap: 40px;
+}
+.about__card{
+    width: 45%;
+    font-size: 1.5rem;
+}
+.skill, .skill-2{
+    width: 70px;
+}
+.dropdown{
+    font-size: 1.7rem;
+}
+.dropdown-menu--open{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    row-gap: 20px;
+    opacity: 1;
+    margin-bottom: 20px;
+}
+.dropdown-menu__item img{
+    width: 300px;
+    border-radius: 10px;
+}
+.design-service, .development-service, .optimization-service, .maintenance-service{
+    width: 45%;
+    row-gap: 40px;
+}
+.services-img{
+    width: 25px;
+}
+.services-item{
+    font-size: 1.2rem;
+}
+.portfolio-container{
+    row-gap: 40px;
+}
+.year-container{
+    font-size: 1.2rem;
+}
+.contact{
+    font-size: 1.5rem;
+    row-gap: 40px;
+}
+.greeting{
+    width: 45%;
+}
+.container-social-network{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    column-gap: 40px;
+    margin-bottom: 20px;
+}

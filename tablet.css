@@ -1,0 +1,68 @@
+.bg-grid{
+    padding: 20px 20px 0 20px;
+}
+.header{
+    row-gap: 20px;
+}
+.title{
+    font-size: 8vw;
+}
+.logo{
+    width: 70%;
+}
+.name{
+    font-size: 4rem;
+}
+.developer{
+    font-size: 3rem;
+}
+.words-container{
+    height: 40px;
+    transform: translateY( .2px );
+}
+.word{
+    font-size: 3rem;
+    padding-left: 15px;
+}
+.nav{
+    margin-top: 20px;
+}
+.button-1, .button-2, .button-3, .button-4{
+    padding: 7px 10px;
+    font-size: 3vw;
+}
+.about__card{
+    width: 60%;
+    font-size: 1.5rem;
+}
+.skill, .skill-2{
+    width: 60px;
+}
+.dropdown{
+    font-size: 1.7rem;
+}
+.dropdown-menu--open{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    opacity: 1;
+    margin-bottom: 20px;
+}
+.dropdown-menu__item img{
+    width: 200px;
+    border-radius: 10px;
+}
+.services-img{
+    width: 25px;
+}
+.services-item{
+    font-size: 1.2rem;
+}
+.year-container{
+    font-size: 1.2rem;
+}
+.contact{
+    font-size: 1.2rem;
+}
