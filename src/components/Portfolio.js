@@ -25,11 +25,11 @@ export const Portfolio = async () => {
                                             <p class='proyect-info__description'>${ pjt.description }</p>
                                             <ul class='proyect-links'>
                                                 <li>
-                                                    <img src='../src/assets/icons/link.svg' alt='link' class='proyect-link__img'/>
+                                                    <img src='src/assets/icons/link.svg' alt='link' class='proyect-link__img'/>
                                                     <a href='${ pjt.deploy }' target='blank'>Deploy</a>
                                                 </li>
                                                 <li>
-                                                    <img src='../src/assets/icons/link.svg' alt='link' class='proyect-link__img'/>
+                                                    <img src='src/assets/icons/link.svg' alt='link' class='proyect-link__img'/>
                                                     <a href='${ pjt.repository }' target='blank'>Repositorio</a>
                                                 </li>
                                             </ul>
