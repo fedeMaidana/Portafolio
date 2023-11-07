@@ -1,5 +1,3 @@
-// import { Axios } from "axios"
-
 export const AboutMe = async () => {
     try {
         const requestOptions = {
