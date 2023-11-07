@@ -7,7 +7,7 @@ export const AboutMe = async () => {
             })
         }
 
-        const responseAbout = await fetch( 'tree/main/src/json/aboutMe.json', requestOptions )
+        const responseAbout = await fetch( 'https://github.com/fedeMaidana/Portafolio/blob/main/src/json/aboutMe.json', requestOptions )
         const { info } = await responseAbout.json()
 
         const responseSkills1 = await fetch( '../src/json/skills1.json', requestOptions )
