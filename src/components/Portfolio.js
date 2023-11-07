@@ -1,6 +1,6 @@
 export const Portfolio = async () => {
     try {
-        const response = await fetch( '../src/json/projects.json' )
+        const response = await fetch( 'src/json/projects.json' )
         const { projects } = await response.json()
 
         const view = /* html */ `

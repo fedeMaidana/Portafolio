@@ -1,9 +1,9 @@
 export const Contact = async () => {
     try {
-        const responseGreetings = await fetch( '../src/json/greetings.json' )
+        const responseGreetings = await fetch( 'src/json/greetings.json' )
         const { greetings } = await responseGreetings.json()
 
-        const responseSocialNetworks = await fetch( '../src/json/socialNetworks.json' )
+        const responseSocialNetworks = await fetch( 'src/json/socialNetworks.json' )
         const { socialNetworks } = await responseSocialNetworks.json()
 
         const view = /* html */ `

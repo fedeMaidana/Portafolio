@@ -1,6 +1,6 @@
 export const Services = async () => {
     try {
-        const response = await fetch( '../src/json/services.json' )
+        const response = await fetch( 'src/json/services.json' )
         const { services } = await response.json()
 
         const view = /* html */ `
