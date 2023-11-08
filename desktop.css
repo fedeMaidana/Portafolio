@@ -1,6 +1,10 @@
 .bg-grid{
     padding: 20px 20px 0 20px;
 }
+.main{
+    width: 70%;
+    margin: 0 auto;
+}
 .header{
     row-gap: 50px;
 }
@@ -38,6 +42,7 @@
 .button-1, .button-2, .button-3, .button-4{
     padding: 7px 10px;
     font-size: 2.5rem;
+    cursor: pointer;
 }
 .about{
     row-gap: 40px;
@@ -50,6 +55,7 @@
     width: 70px;
 }
 .dropdown{
+    width: 100%;
     font-size: 1.7rem;
 }
 .dropdown-menu--open{

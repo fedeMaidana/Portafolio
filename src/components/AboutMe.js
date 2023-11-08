@@ -93,10 +93,10 @@ export const AboutMe = async () => {
                     </div>
                 </div>
                 <div class='dropdown-container'>
-                    <div class='dropdown'>
+                    <button class='dropdown'>
                         <span>Certificados</span>
                         <div class='caret'></div>
-                    </div>
+                    </button>
                     <ul class='dropdown-menu'>
                         ${ diplomas.map( diploma => {
                             return /* html */ `

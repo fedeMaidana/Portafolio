@@ -34,6 +34,7 @@ body{
     display: flex;
     flex-direction: column;
 }
+
 .switchers{
     display: flex;
     justify-content: end;
@@ -57,7 +58,7 @@ body{
     position: absolute;
     inset: -1px;
     border-radius: 10px;
-    background: linear-gradient( 0deg, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, .5) 100% );
+    background: linear-gradient( 0deg, rgba(255, 255, 255, 0) 50%, rgba(206, 160, 222, 1) 100% );
     mix-blend-mode: overlay;
     z-index: -1;
 }
@@ -127,28 +128,28 @@ body{
     z-index: -1;
 }
 .button-1::before{
-    background: linear-gradient( 20deg, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, .5) 100% );
+    background: linear-gradient( 30deg, rgba(255, 255, 255, 0) 50%, rgba(180, 118, 202, 1) 100% );
 }
 .button-1::after{
     content: '';
     box-shadow: -2px 2px 3px 0px rgb(86 64 117);
 }
 .button-2::before{
-    background: linear-gradient( 10deg, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, .5) 100% );
+    background: linear-gradient( 10deg, rgba(255, 255, 255, 0) 50%, rgba(180, 118, 202, 1) 100% );
 }
 .button-2::after{
     content: '';
     box-shadow: -1px 2px 3px 0px rgb(86 64 117);
 }
 .button-3::before{
-    background: linear-gradient( 0deg, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, .5) 100% );
+    background: linear-gradient( -10deg, rgba(255, 255, 255, 0) 50%, rgba(180, 118, 202, 1) 100% );
 }
 .button-3::after{
     content: '';
     box-shadow: 0px 2px 3px 0px rgb(86 64 117);
 }
 .button-4::before{
-    background: linear-gradient( -10deg, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, .5) 100% );
+    background: linear-gradient( -30deg, rgba(255, 255, 255, 0) 50%, rgba(180, 118, 202, 1) 100% );
 }
 .button-4::after{
     content: '';

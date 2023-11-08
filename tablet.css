@@ -39,6 +39,7 @@
     width: 60px;
 }
 .dropdown{
+    width: 100%;
     font-size: 1.7rem;
 }
 .dropdown-menu--open{

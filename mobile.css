@@ -42,6 +42,7 @@
     width: 50px;
 }
 .dropdown{
+    width: 100%;
     font-size: 1.5rem;
 }
 .services-img{
